@@ -12,7 +12,7 @@ const Home = ({ navigation }) => {
   };
   return (
     <View style={styles.container}>
-      <Text style={styles.txt}>Home Screen</Text>
+      <Text style={styles.txt}>Homee Screen</Text>
       <Test />
       <View style={styles.btn}>
         <Button onPress={goToAbout} title="To About" />
